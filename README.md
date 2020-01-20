@@ -1,6 +1,5 @@
-# Hanabi-Agent
-Agents which play the cooperative game of Hanabi.
-Agents use a combination of Monte Carlo Tree Search (MCTS) and Neural Networks.
-Part of the Game AI project. Originally uploaded on GitLab.
+# CE811 Game AI - Hanabi
 
-
+## Authors
+- Rohit Venugopal (rv19514@essex.ac.uk)
+- Damian Machlanski (dm18389@essex.ac.uk)
